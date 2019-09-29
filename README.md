@@ -6,3 +6,8 @@ The app can be viewed and tested here:
 
 https://clydspyd.github.io/todo-list/
 
+Technical documentation can be viewed here:
+
+https://docs.google.com/document/d/1lpc-slQ6jeV1cFYHQOJro3mUiDw8DeKwrHRcD5eQo-M/edit?usp=sharing
+
+
